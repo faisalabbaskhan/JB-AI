@@ -1,0 +1,6 @@
+{
+  "name": "Joni Baba AI",
+  "description": "Create. Enhance. Transform. A premium AI platform to remove backgrounds, enhance images, generate AI art, restore photos, upscale quality, and create professional visuals in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
